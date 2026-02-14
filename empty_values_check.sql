@@ -35,3 +35,5 @@ SELECT
 FROM 
 	sales;
 
+
+-- The variables store_location, product_category, product_type and product_detail do not contain empty values
